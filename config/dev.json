@@ -1,0 +1,18 @@
+{
+    "PORT": 4003,
+    "BASE": "http://localhost:4003",
+    "BUCKET_URL": "http://localhost:4003",
+    "APP_NAME": "Elite-Athlete-Nutrition",
+    "DB": {
+        "connectionLimit": 1000,
+        "host": "localhost",
+        "user": "sandeep",
+        "password":"",
+        "database": "Elite",
+        "port" : 3306,
+        "waitForConnections": true,
+        "queueLimit": 0,
+        "debug" : false,
+        "charset": "utf8mb4"
+    }
+}
